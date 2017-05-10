@@ -1,2 +1,6 @@
-# -tiri-v-vrsto
+# Štiri-v-vrsto
 Projektna naloga za UVP
+
+Igra za ....
+
+
